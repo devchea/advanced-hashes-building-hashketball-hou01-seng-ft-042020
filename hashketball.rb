@@ -1,4 +1,6 @@
 # Write your code here!
 def game_hash()
-  game_hash = {}
+  new_hash = {
+    :home => 
+  }
 end
